@@ -1,6 +1,0 @@
-base_sens=float(input("What is your base sensitivity"))
-default_FOV=float(input("What is the default FOV?"))
-user_FOV=float(input("What is your current FOV?"))
-zoom=float(input("What is the zoom multiplier?"))
-FOV=user_FOV/default_FOV
-print (int((base_sens/FOV)/zoom))
