@@ -2,4 +2,4 @@
 
 This is a place where I upload my stupid little projects
 
-Please read the LICENCE file :)
+Please read the LICENSE file :)
